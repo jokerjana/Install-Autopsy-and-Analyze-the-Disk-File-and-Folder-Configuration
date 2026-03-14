@@ -51,7 +51,7 @@ Export or recover files if required for the investigation.
 8.Export selected files for further examination.
 
 ## OUTPUT:
-File and Folder Configuration Analysis Results
+
 
 
 ## RESULT:
